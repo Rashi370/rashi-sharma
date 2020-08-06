@@ -1,2 +1,2 @@
-# rashi-sharma
+# Rashi-sharma
 sample app
